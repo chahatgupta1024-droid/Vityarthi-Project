@@ -30,7 +30,7 @@ Open Terminal/Command Prompt
 Run: python filename.py
 Start playing the game
 
-ISTRUCTION FOR TESTING:
+INSTRUCTION FOR TESTING:
 1. Run the program and start the game.
 2. Enter valid inputs:
 rock
